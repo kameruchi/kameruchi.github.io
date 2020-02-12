@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<feed xmlns="http://www.w3.org/2005/Atom" >
+  <generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator>
+  <link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" />
+  <link href="http://localhost:4000/" rel="alternate" type="text/html" />
+  <updated>2020-02-12T20:52:43+01:00</updated>
+  <id>http://localhost:4000/</id>
+
+  
+    <title type="html">Andy_Kameruchi</title>
+  
+
+  
+    <subtitle>Web development for startups</subtitle>
+  
+
+  
+
+  
+  
+    <entry>
+      <title type="html">Ideos.App</title>
+      <link href="http://localhost:4000/live/2019/01/03/project-4/" rel="alternate" type="text/html" title="Ideos.App" />
+      <published>2019-01-03T00:00:00+01:00</published>
+      <updated>2019-01-03T00:00:00+01:00</updated>
+      <id>http://localhost:4000/live/2019/01/03/project-4</id>
+      <content type="html" xml:base="http://localhost:4000/live/2019/01/03/project-4/">&lt;h3&gt;What it is&lt;/h3&gt;
+&lt;p&gt;A webapp for companies to collect feedback from their employees and use that feedback to understand their people better and improve their EX (employee experience).&lt;/p&gt;
+&lt;h4&gt;Highlights&lt;/h4&gt;
+&lt;p&gt;A full enterprise software where I was deeply involved in everything from concept to implementation, this has been my biggest project up to now. Security, dev-ops, UI and UX and even graphic design, the project took about 1 year to be completed.&lt;/p&gt;
+&lt;p&gt;Visit it: &lt;a class=&quot;list-inline item-details&quot; href=&quot;https://ideos.app&quot; target=&quot;_blank&quot;&gt;https://ideos.app&lt;/a&gt;&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name></name>
+        
+        
+      </author>
+
+      
+
+      
+
+      
+        <summary type="html">What it is A webapp for companies to collect feedback from their employees and use that feedback to understand their people better and improve their EX (employee experience). Highlights A full enterprise software where I was deeply involved in everything from concept to implementation, this has been my biggest project up to now. Security, dev-ops, UI and UX and even graphic design, the project took about 1 year to be completed. Visit it: https://ideos.app</summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">Chemical Soup</title>
+      <link href="http://localhost:4000/live/2019/01/02/project-3/" rel="alternate" type="text/html" title="Chemical Soup" />
+      <published>2019-01-02T00:00:00+01:00</published>
+      <updated>2019-01-02T00:00:00+01:00</updated>
+      <id>http://localhost:4000/live/2019/01/02/project-3</id>
+      <content type="html" xml:base="http://localhost:4000/live/2019/01/02/project-3/">&lt;h3&gt;What it is&lt;/h3&gt;
+&lt;p&gt;A visualization tool for chemical networks.&lt;br /&gt;In plain English, that means the tool takes a list of reactions happening between molecules and generates interactive graphics to visually explore what's happening between those molecules.&lt;/p&gt;
+&lt;h4&gt;Highlights&lt;/h4&gt;
+&lt;p&gt;This is basically a data-visualization tool designed for a specific purpose. To bring that data to life, I used the powerful D3 library.&lt;/p&gt;
+&lt;p&gt;Visit it: &lt;a class=&quot;list-inline item-details&quot; href=&quot;https://chemicalsoup.app&quot; target=&quot;_blank&quot;&gt;https://chemicalsoup.app&lt;/a&gt;&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name></name>
+        
+        
+      </author>
+
+      
+
+      
+
+      
+        <summary type="html">What it is A visualization tool for chemical networks.In plain English, that means the tool takes a list of reactions happening between molecules and generates interactive graphics to visually explore what's happening between those molecules. Highlights This is basically a data-visualization tool designed for a specific purpose. To bring that data to life, I used the powerful D3 library. Visit it: https://chemicalsoup.app</summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">The WonderBox</title>
+      <link href="http://localhost:4000/live/2019/01/01/project-2/" rel="alternate" type="text/html" title="The WonderBox" />
+      <published>2019-01-01T00:00:00+01:00</published>
+      <updated>2019-01-01T00:00:00+01:00</updated>
+      <id>http://localhost:4000/live/2019/01/01/project-2</id>
+      <content type="html" xml:base="http://localhost:4000/live/2019/01/01/project-2/">&lt;h3&gt;What it is&lt;/h3&gt;
+&lt;p&gt;An online store to receive and manage subscriptions to a monthly surprise box sent by post and customized to the customer. Aimed exclusively to the Japanese market, the website is all in Japanese and has a &lt;em&gt;kawaii&lt;/em&gt; and playful look. Special attention was paid to the UX to create a smooth check-out experience.&lt;/p&gt;
+&lt;h4&gt;Highlights&lt;/h4&gt;
+&lt;p&gt;This is a system designed to do much more than just registering subscriptions and process payments: It automates the entire process. It creates labels for the post, sends notifications, manages reviews, counts stock and selects items for each box based on previous reviews.&lt;/p&gt;
+&lt;p&gt;Visit it: &lt;a class=&quot;list-inline item-details&quot; href=&quot;https://the-wonderbox.com&quot; target=&quot;_blank&quot;&gt;https://the-wonderbox.com&lt;/a&gt;&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name></name>
+        
+        
+      </author>
+
+      
+
+      
+
+      
+        <summary type="html">What it is An online store to receive and manage subscriptions to a monthly surprise box sent by post and customized to the customer. Aimed exclusively to the Japanese market, the website is all in Japanese and has a kawaii and playful look. Special attention was paid to the UX to create a smooth check-out experience. Highlights This is a system designed to do much more than just registering subscriptions and process payments: It automates the entire process. It creates labels for the post, sends notifications, manages reviews, counts stock and selects items for each box based on previous reviews. Visit it: https://the-wonderbox.com</summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">Fizza</title>
+      <link href="http://localhost:4000/private/2014/07/18/project-1/" rel="alternate" type="text/html" title="Fizza" />
+      <published>2014-07-18T00:00:00+02:00</published>
+      <updated>2014-07-18T00:00:00+02:00</updated>
+      <id>http://localhost:4000/private/2014/07/18/project-1</id>
+      <content type="html" xml:base="http://localhost:4000/private/2014/07/18/project-1/">&lt;h3&gt;What it is&lt;/h3&gt;
+&lt;p&gt;Managing your personal financials should be as fun as eating pizza with your friends. But thanks to spreadsheets, it is often all the opposite. Fizza is a webapp where you can visualize how you are spending your money. It presents income and spending on beautiful graphics using categories that you define. All you need to do is teach the system what belongs where and then upload a bank statement a few times per year.&lt;/p&gt;
+&lt;h4&gt;Highlights&lt;/h4&gt;
+&lt;p&gt;Fizza was born as a personal projects and out of frustration with existing apps. It's still work on progress and the goal is to build a system that can do a bit more than just vizualizing your finances: It will predict your future finance flow and (hopefully) help educate people on how to better admin their money.&lt;/p&gt;
+&lt;p&gt;Fizza uses &lt;a class=&quot;list-inline item-details&quot; href=&quot;https://pandas.pydata.org/&quot; target=&quot;_blank&quot;&gt;pandas&lt;/a&gt; to analyze and manipulate the data. It's still in development and not available to the public yet.&lt;br /&gt;Release date: 2020.&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name></name>
+        
+        
+      </author>
+
+      
+
+      
+
+      
+        <summary type="html">What it is Managing your personal financials should be as fun as eating pizza with your friends. But thanks to spreadsheets, it is often all the opposite. Fizza is a webapp where you can visualize how you are spending your money. It presents income and spending on beautiful graphics using categories that you define. All you need to do is teach the system what belongs where and then upload a bank statement a few times per year. Highlights Fizza was born as a personal projects and out of frustration with existing apps. It's still work on progress and the goal is to build a system that can do a bit more than just vizualizing your finances: It will predict your future finance flow and (hopefully) help educate people on how to better admin their money. Fizza uses pandas to analyze and manipulate the data. It's still in development and not available to the public yet.Release date: 2020.</summary>
+      
+
+      
+      
+    </entry>
+  
+</feed>

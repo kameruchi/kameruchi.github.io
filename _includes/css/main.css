@@ -1,8 +1,27 @@
 /*!
  * Start Bootstrap - Freelancer Bootstrap Theme (http://startbootstrap.com)
  * Code licensed under the Apache License v2.0.
- * For details, see http://www.apache.org/licenses/LICENSE-2.0.
+ * Modified Version
  */
+
+ .md-img{
+    max-height: 300px;
+ }
+ .sm-img{
+    max-height: 150px;
+ }
+.lg-img{
+    max-height: 400px;
+ }
+
+.col-center{
+    float: none;
+    display: block;
+    margin: 0 auto;
+}
+ .d-none{
+    display: none;
+ }
 
 body {
     overflow-x: hidden;
@@ -74,6 +93,17 @@ hr.star-primary {
 hr.star-primary:after {
     color: #{{ site.color.secondary }};
     background-color: #fff;
+}
+
+hr.star-light.intro:after{
+     content: "\1F44B";
+}
+
+hr.star-primary.keyboard:after{
+     content: "👨‍💻";
+}
+hr.star-primary.contact:after{
+     content: "\1F4EC";
 }
 
 .img-centered {
@@ -172,7 +202,11 @@ header .intro-text .skills {
 }
 
 section {
-    padding: 100px 0;
+    padding: 100px 0 0 0; 
+}
+
+#contact{
+    padding: 50px 0;
 }
 
 section h2 {

@@ -1,0 +1,20 @@
+---
+layout: default
+modal-id: 3
+date: 2019-01-02
+title: Chemical Soup
+img: chemicalsoupimg.png
+logo: chemicalsouplogo.png
+alt: image-alt
+categories: live
+project-date: 2019
+client: Sophia University, Tokyo, Japan
+<!-- category: Web Development -->
+<!-- description: <p>Hello</p><p>X</p> -->
+
+---
+<h3>What it is</h3>
+<p>A visualization tool for chemical networks.<br>In plain English, that means the tool takes a list of reactions happening between molecules and generates interactive graphics to visually explore what's happening between those molecules.</p>
+<h4>Highlights</h4>
+<p>This is basically a data-visualization tool designed for a specific purpose. To bring that data to life, I used the powerful D3 library.</p>
+<p>Visit it: <a class="list-inline item-details" href="https://chemicalsoup.app" target="_blank">https://chemicalsoup.app</a></p>

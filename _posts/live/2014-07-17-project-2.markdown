@@ -1,0 +1,21 @@
+---
+layout: default
+modal-id: 2
+title: The WonderBox
+categories: live
+date: 2019-01-01
+img: thewonderboximg.png
+logo: thewonderboxlogo.png
+alt: image-alt
+project-date: 2019
+<!-- client: Start Bootstrap -->
+<!-- category: Web Development -->
+<!-- description: <p>Hello</p><p>X</p> -->
+ 
+
+---
+<h3>What it is</h3>
+<p>An online store to receive and manage subscriptions to a monthly surprise box sent by post and customized to the customer. Aimed exclusively to the Japanese market, the website is all in Japanese and has a <em>kawaii</em> and playful look. Special attention was paid to the UX to create a smooth check-out experience.</p>
+<h4>Highlights</h4>
+<p>This is a system designed to do much more than just registering subscriptions and process payments: It automates the entire process. It creates labels for the post, sends notifications, manages reviews, counts stock and selects items for each box based on previous reviews.</p>
+<p>Visit it: <a class="list-inline item-details" href="https://the-wonderbox.com" target="_blank">https://the-wonderbox.com</a></p>
