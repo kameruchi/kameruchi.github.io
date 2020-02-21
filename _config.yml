@@ -1,12 +1,12 @@
 # Site settings
-title: Andy_Kameruchi
-my_name: AndyK
+title: Andy_Camerucci
+my_name: Andy
 email: dev@emplero.com
 url: https://kameruchi.github.io
-description: "Web development for startups"
+description: "Fullstack developer"
 keywords: ""
-skills: "Full stack developer / Entrepreneur / Digital Consultant."
-meta_author: Andy Kameruchi
+skills: "Fullstack developer & Entrepreneur"
+meta_author: AndyK
 
 # Google webmaster tools
 google_verify:
