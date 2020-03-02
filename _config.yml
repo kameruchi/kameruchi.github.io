@@ -3,8 +3,8 @@ title: Andy_Camerucci
 my_name: Andy
 email: dev@emplero.com
 url: https://kameruchi.github.io
-description: "Fullstack developer"
-keywords: ""
+description: "This is my tech side. For the dark side, look elsewhere Luke."
+keywords: "Andy Camerucci, Fullstack developer, Andy Camerucci developer"
 skills: "Fullstack developer & Entrepreneur"
 meta_author: AndyK
 
@@ -44,8 +44,10 @@ social:
     url: https://www.linkedin.com/in/camerucci/
   - title: twitter
     url: http://twitter.com/kameruchi
-  - title: facebook
-    url: https://www.facebook.com/kameruchi
+  # - title: whatsapp
+  #   url: https://wa.me/0031655562404
+  # - title: facebook
+  #   url: https://www.facebook.com/kameruchi
   # - title: stack-overflow
   #   url: http://stackoverflow.com/questions/tagged/jekyll
   # - title: bitbucket
