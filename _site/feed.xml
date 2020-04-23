@@ -4,7 +4,7 @@
   <generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator>
   <link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" />
   <link href="http://localhost:4000/" rel="alternate" type="text/html" />
-  <updated>2020-03-03T10:27:37+01:00</updated>
+  <updated>2020-04-23T10:00:10+02:00</updated>
   <id>http://localhost:4000/</id>
 
   
@@ -128,8 +128,8 @@
     </entry>
   
     <entry>
-      <title type="html">Fizza</title>
-      <link href="http://localhost:4000/private/2014/07/18/project-1/" rel="alternate" type="text/html" title="Fizza" />
+      <title type="html">Fizza.io</title>
+      <link href="http://localhost:4000/private/2014/07/18/project-1/" rel="alternate" type="text/html" title="Fizza.io" />
       <published>2014-07-18T00:00:00+02:00</published>
       <updated>2014-07-18T00:00:00+02:00</updated>
       <id>http://localhost:4000/private/2014/07/18/project-1</id>
@@ -137,7 +137,7 @@
 &lt;p&gt;Managing your personal financials should be as fun as eating pizza with your friends. But thanks to spreadsheets, it is often all the opposite. Fizza is a webapp where you can visualize how you are spending your money. It presents income and spending on beautiful graphics using categories that you define. All you need to do is teach the system what belongs where and then upload a bank statement a few times per year.&lt;/p&gt;
 &lt;h4&gt;Highlights&lt;/h4&gt;
 &lt;p&gt;Fizza was born as a personal projects and out of frustration with existing apps. It's still work on progress and the goal is to build a system that can do a bit more than just visualizing your finances: It will predict your future finance flow and (hopefully) help educate people on how to better admin their money.&lt;/p&gt;
-&lt;p&gt;Fizza uses &lt;a class=&quot;list-inline item-details&quot; href=&quot;https://pandas.pydata.org/&quot; target=&quot;_blank&quot;&gt;pandas&lt;/a&gt; to analyze and manipulate the data. It's still in development and not available to the public yet.&lt;br /&gt;Release date: 2020.&lt;/p&gt;</content>
+&lt;p&gt;&lt;a class=&quot;list-inline item-details&quot; href=&quot;https://fizza.io&quot; target=&quot;_blank&quot;&gt;Fizza.io&lt;/a&gt; is being built on a mix of Django Framework for the backend and &lt;a class=&quot;list-inline item-details&quot; href=&quot;https://reactjs.org&quot; target=&quot;_blank&quot;&gt;React&lt;/a&gt; for the UI. It uses &lt;a class=&quot;list-inline item-details&quot; href=&quot;https://pandas.pydata.org/&quot; target=&quot;_blank&quot;&gt;pandas&lt;/a&gt; to analyze and manipulate the data. It's still in development and not available to the public yet.&lt;/p&gt;</content>
 
       
       
@@ -156,7 +156,7 @@
       
 
       
-        <summary type="html">What it is Managing your personal financials should be as fun as eating pizza with your friends. But thanks to spreadsheets, it is often all the opposite. Fizza is a webapp where you can visualize how you are spending your money. It presents income and spending on beautiful graphics using categories that you define. All you need to do is teach the system what belongs where and then upload a bank statement a few times per year. Highlights Fizza was born as a personal projects and out of frustration with existing apps. It's still work on progress and the goal is to build a system that can do a bit more than just visualizing your finances: It will predict your future finance flow and (hopefully) help educate people on how to better admin their money. Fizza uses pandas to analyze and manipulate the data. It's still in development and not available to the public yet.Release date: 2020.</summary>
+        <summary type="html">What it is Managing your personal financials should be as fun as eating pizza with your friends. But thanks to spreadsheets, it is often all the opposite. Fizza is a webapp where you can visualize how you are spending your money. It presents income and spending on beautiful graphics using categories that you define. All you need to do is teach the system what belongs where and then upload a bank statement a few times per year. Highlights Fizza was born as a personal projects and out of frustration with existing apps. It's still work on progress and the goal is to build a system that can do a bit more than just visualizing your finances: It will predict your future finance flow and (hopefully) help educate people on how to better admin their money. Fizza.io is being built on a mix of Django Framework for the backend and React for the UI. It uses pandas to analyze and manipulate the data. It's still in development and not available to the public yet.</summary>
       
 
       

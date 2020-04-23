@@ -7,7 +7,7 @@ img: fizzaimg.png
 logo: fizzalogo.png
 alt: image-alt
 categories: private
-<!-- project-date: 2018 - 2020 -->
+project-date: Coming Soon in 2020
 <!-- client: Start Bootstrap -->
 <!-- category: Web Development -->
 <!-- description: <p>Hello</p><p>X</p> -->
@@ -18,4 +18,4 @@ categories: private
 <p>Managing your personal financials should be as fun as eating pizza with your friends. But thanks to spreadsheets, it is often all the opposite. Fizza is a webapp where you can visualize how you are spending your money. It presents income and spending on beautiful graphics using categories that you define. All you need to do is teach the system what belongs where and then upload a bank statement a few times per year.</p>
 <h4>Highlights</h4>
 <p>Fizza was born as a personal projects and out of frustration with existing apps. It's still work on progress and the goal is to build a system that can do a bit more than just visualizing your finances: It will predict your future finance flow and (hopefully) help educate people on how to better admin their money.</p>
-<p><a class="list-inline item-details" href="https://fizza.io" target="_blank">Fizza.io</a> uses <a class="list-inline item-details" href="https://pandas.pydata.org/" target="_blank">pandas</a> to analyze and manipulate the data. It's still in development and not available to the public yet.<br>Release date: 2020.</p>
+<p><a class="list-inline item-details" href="https://fizza.io" target="_blank">Fizza.io</a> is being built on a mix of Django Framework for the backend and <a class="list-inline item-details" href="https://reactjs.org" target="_blank">React</a> for the UI. It uses <a class="list-inline item-details" href="https://pandas.pydata.org/" target="_blank">pandas</a> to analyze and manipulate the data. It's still in development and not available to the public yet.</p>
